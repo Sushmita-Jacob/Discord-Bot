@@ -4,7 +4,7 @@ from dataclasses import dataclass
 import datetime
 
 BOT_TOKEN = '' #Token removed during commit for security
-CHANNEL_ID = 1499594271701995635
+CHANNEL_ID = 1503112069900144862
 STUDY_SESSION_TIME_MINUTES = 3
 SHORT_BREAK_TIME_MINUTES = 1
 LONG_BREAK_TIME_MINUTES = 2
